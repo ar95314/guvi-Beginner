@@ -1,5 +1,5 @@
 #saravana Qsort
-a=int(input())
+b=int(input())
 li=list(map(int,input().split()))
 li.sort()
 for i in range(len(li)):
