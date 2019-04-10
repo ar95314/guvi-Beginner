@@ -1,3 +1,3 @@
 a=int(input())
-li=list(map(int,input().split()))
-print(min(li))
+lis=list(map(int,input().split()))
+print(min(lis))
