@@ -1,4 +1,4 @@
-a=int(input())
-b=list(map(str,input().split()))
-for i in range(0,len(b)):
-	print(b[i],i)
+m=int(input())
+n=list(map(str,input().split()))
+for i in range(0,len(n)):
+	print(n[i],i)
