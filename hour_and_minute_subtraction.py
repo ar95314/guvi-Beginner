@@ -1,3 +1,3 @@
-a,b=map(int,input().split())
+m,n=map(int,input().split())
 c,d=map(int,input().split())
-print(abs(a-c),abs(b-d))
+print(abs(m-c),abs(n-d))
